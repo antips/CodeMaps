@@ -8,4 +8,3 @@ The syntax is custom to be simplified while suiting for the needs of this projec
 __author__ = "Antoine DEWERDT"
 __credits__ = ["Antoine DEWERDT"]
 __license__ = "GPL"
-
